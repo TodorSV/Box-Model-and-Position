@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+.site-header {
+    border-bottom: 2px solid #444;
+    display: block;
+}
+
+h1 {
+    display: inline-block;
+}
+
+h2 {
+    font-weight:  normal;
+}
+
+.site-main nav {
+    display: inline-block;
+}
+
+.site-main nav a {
+    display: block;
+    text-decoration: none;
+    color: green
+}
+
+.site-main nav li {
+    display: inline-block;
+    
+}
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}

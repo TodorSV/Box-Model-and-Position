@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(238, 238, 238)
+}
+
+article {
+    padding-right: 10em;
+}
+
+aside {
+    float: right;
+    margin: auto;
+}
+
+
+img {
+    display: block;
+    width: 60%;
+    height: auto;
+}
+
+
+
+
